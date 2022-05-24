@@ -1,0 +1,15 @@
+E:\programacao-backup\curso-balta\projeto1\Calculator\bin\Debug\net6.0\Calculator.exe
+E:\programacao-backup\curso-balta\projeto1\Calculator\bin\Debug\net6.0\Calculator.deps.json
+E:\programacao-backup\curso-balta\projeto1\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+E:\programacao-backup\curso-balta\projeto1\Calculator\bin\Debug\net6.0\Calculator.dll
+E:\programacao-backup\curso-balta\projeto1\Calculator\bin\Debug\net6.0\Calculator.pdb
+E:\programacao-backup\curso-balta\projeto1\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+E:\programacao-backup\curso-balta\projeto1\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\curso-balta\projeto1\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+E:\programacao-backup\curso-balta\projeto1\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+E:\programacao-backup\curso-balta\projeto1\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+E:\programacao-backup\curso-balta\projeto1\Calculator\obj\Debug\net6.0\Calculator.dll
+E:\programacao-backup\curso-balta\projeto1\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+E:\programacao-backup\curso-balta\projeto1\Calculator\obj\Debug\net6.0\Calculator.pdb
+E:\programacao-backup\curso-balta\projeto1\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+E:\programacao-backup\curso-balta\projeto1\Calculator\obj\Debug\net6.0\ref\Calculator.dll
