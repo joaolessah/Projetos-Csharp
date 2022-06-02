@@ -1,6 +1,6 @@
-# calculadora-csharp
-Calculadora para treinar operadores/ funções/ estruturas condicionais
+# Esse repositório servirá para que eu possa guardar os códigos gerados durante meus estudos de C#
 
-A parte até a conta de divisão foi realizada junto ao Balta durante o curso, como desafio ele deixou implementar outras telas.
+- Cursos feitos/sendo realizados:
+    - No momento estou fazendo o curso de fundamentos do Csharp do BALTA
 
-Fiz uma de "calculo financeiro" e adicinei cálculos de raiz e potência à calculadora normal.
+    
