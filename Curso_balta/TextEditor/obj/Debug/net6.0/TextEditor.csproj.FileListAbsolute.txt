@@ -1,0 +1,15 @@
+E:\programacao-backup\curso-balta\projeto3\TextEditor\bin\Debug\net6.0\TextEditor.exe
+E:\programacao-backup\curso-balta\projeto3\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+E:\programacao-backup\curso-balta\projeto3\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+E:\programacao-backup\curso-balta\projeto3\TextEditor\bin\Debug\net6.0\TextEditor.dll
+E:\programacao-backup\curso-balta\projeto3\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+E:\programacao-backup\curso-balta\projeto3\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+E:\programacao-backup\curso-balta\projeto3\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\curso-balta\projeto3\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+E:\programacao-backup\curso-balta\projeto3\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+E:\programacao-backup\curso-balta\projeto3\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+E:\programacao-backup\curso-balta\projeto3\TextEditor\obj\Debug\net6.0\TextEditor.dll
+E:\programacao-backup\curso-balta\projeto3\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+E:\programacao-backup\curso-balta\projeto3\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+E:\programacao-backup\curso-balta\projeto3\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+E:\programacao-backup\curso-balta\projeto3\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll
