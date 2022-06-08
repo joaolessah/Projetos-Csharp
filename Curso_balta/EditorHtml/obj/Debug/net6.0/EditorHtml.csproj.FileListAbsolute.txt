@@ -1,0 +1,15 @@
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.AssemblyReference.cache
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+E:\programacao-backup\curso-balta\projeto4\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
