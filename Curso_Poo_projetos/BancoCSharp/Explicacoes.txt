@@ -1,0 +1,33 @@
+1- Ser possível criar conta corrente - ok
+2- Ser possível criar conta poupança - ok
+3- Ser possível criar conta investimento - ok
+4- Ser possível efetuar depósito - ok
+5- Ser possível efetuar saque - ok
+6- Ser possível efetuar transferência - ok
+7- Ser possível consultar saldo - ok
+8- Não deve ser possível criar uma conta bancaria sem tipo - ok
+9- Cada tipo e conta possa implementar de forma diferente o método de ImprimirExtrato - ok
+
+10- Ser possível visualizar histórico de transações
+    10.1 - Uma classe que represente a minha movimentação - ok
+    10.2 - Uma lista para armazenar essas movimentações
+    10.3 - Uma forma de saber de maneira simples qual o tipo da movimentação. (Abertura/Saque/Depósito)
+    10.4 - Um layout para apresentar a movimentação quando for pedida
+    10.5 - Criar uma lógica para mostrar o layout
+
+
+Atividade
+
+Toda conta bancária deve ter um limite de cheque especial -- ok
+
+Esse limite deve ser considerado no saldo final. -- ok
+
+// PAra ser feito na função do saque
+
+No saque, caso o titular não tenha saldo, o sistema deve verificar o limite especial.
+
+Caso tenha saldo, remover sempre do saldo antes do limite especial.
+
+//
+
+Adicionar as movimentações de cheque especial no extrato. -- ok

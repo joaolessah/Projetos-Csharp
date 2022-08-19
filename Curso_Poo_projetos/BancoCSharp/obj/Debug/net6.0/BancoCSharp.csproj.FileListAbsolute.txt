@@ -1,0 +1,15 @@
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\bin\Debug\net6.0\BancoCSharp.exe
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\bin\Debug\net6.0\BancoCSharp.deps.json
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\bin\Debug\net6.0\BancoCSharp.runtimeconfig.json
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\bin\Debug\net6.0\BancoCSharp.dll
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\bin\Debug\net6.0\BancoCSharp.pdb
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\obj\Debug\net6.0\BancoCSharp.csproj.AssemblyReference.cache
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\obj\Debug\net6.0\BancoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\obj\Debug\net6.0\BancoCSharp.AssemblyInfoInputs.cache
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\obj\Debug\net6.0\BancoCSharp.AssemblyInfo.cs
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\obj\Debug\net6.0\BancoCSharp.csproj.CoreCompileInputs.cache
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\obj\Debug\net6.0\BancoCSharp.dll
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\obj\Debug\net6.0\refint\BancoCSharp.dll
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\obj\Debug\net6.0\BancoCSharp.pdb
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\obj\Debug\net6.0\BancoCSharp.genruntimeconfig.cache
+E:\programacao-backup\cs-poo-projeots\BancoCSharp\obj\Debug\net6.0\ref\BancoCSharp.dll
