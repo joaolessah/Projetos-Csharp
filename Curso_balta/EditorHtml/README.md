@@ -5,6 +5,7 @@
 #### - Funções para criar um menu na tela, assim como laços de repetição para tal.
 #### - Utilizar recursos do console para trocar a cor dele, também para escrever dentro do campo desejado com SetCursorPosition
 #### - Introdução ao REGEX para inserir HTML no texto
+#### - Utilização de uma nova forma de organização dos projetos
 
 ### O que tem de novo até o momento
 
