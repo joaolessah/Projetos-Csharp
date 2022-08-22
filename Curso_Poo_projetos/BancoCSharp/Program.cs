@@ -25,12 +25,7 @@ ContaCorrente conta03 = new ContaCorrente(titular01, 100.00);
 try{
     conta03.Depositar(400.00);
     conta03.Sacar(400.00);
-    conta03.Sacar(50.00);
-    conta03.Sacar(51.00);
-    conta03.Sacar(11.00);
-    conta03.Sacar(50.00);
-    conta03.Depositar(50.00);
-    conta03.Sacar(500.00);
+    conta03.Sacar(100.00);
 
     //conta03.Sacar(37.00);
 

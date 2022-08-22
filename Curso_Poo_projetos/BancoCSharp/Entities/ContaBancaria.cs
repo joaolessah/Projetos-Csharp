@@ -69,29 +69,27 @@ namespace BancoCSharp.Entities
                 //lançando uma exceção 
                 throw new Exception("O valor mínimo para saque é R$" + VALOR_MINIMO);
             }
-
-            else if (Saldo < amount){
-
-                if(Saldo > 0.0){
-                    double dif = amount - Saldo;
-                    ChequeEspecial -= dif;
-                    Movimentacoes.Add(new Movimentacao (TipoMovimentacao.ChequeEspecial, dif));
+            
+            else if( Saldo > amount){
+                Saldo -= amount;
+                Movimentacoes.Add(new Movimentacao (TipoMovimentacao.Saque, amount));
+            }
+            else{
+                if(ChequeEspecial < amount){
+                    throw new Exception("Saldo insuficiente");
                 }
                 else{
-                    if(ChequeEspecial > 0){
-                        ChequeEspecial -= amount;
-                        Movimentacoes.Add(new Movimentacao (TipoMovimentacao.ChequeEspecial, amount));
-                    }
-                    return Saldo = 0;
-                }
-                 
-                 
-            }
-            
-            Saldo -= amount;
-            Movimentacoes.Add(new Movimentacao (TipoMovimentacao.Saque, amount));
+                    double temp = 0;
+                    temp = amount - Saldo;
+                    Saldo = 0;
+                    Movimentacoes.Add(new Movimentacao (TipoMovimentacao.Saque, amount));
 
-            
+                    ChequeEspecial -= temp;
+                    Movimentacoes.Add(new Movimentacao (TipoMovimentacao.ChequeEspecial, temp));
+
+                }
+            }
+
             
             return amount;
         }
